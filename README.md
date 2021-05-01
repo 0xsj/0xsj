@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Seungjoon "Tommy" Lee @sjtommylee
 <!--
 **sjtommylee/sjtommylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

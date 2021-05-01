@@ -1,13 +1,15 @@
-## Hi there 👋 I'm Seungjoon Lee, but you can call me Tommy. 😄
-
-A software engineer passionate about
+## Hi there @sjtommylee but you can call me Tommy. 😄
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjtommylee//)](https://www.linkedin.com/in/sjtommylee//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjtommylee@gmail.com)](mailto:sjtommylee@gmail.com)
 
-[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=sjtommylee&show_icons=true&hide=contribs,issues,stars)](https://github.com/sjtommylee)
+A software engineer passionate about learning and exploring new things.
+Here are some intersting facts about me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&layout=compact)](https://github.com/sjtommylee)
+🇰🇷 - Bilingual.
+☕️ - I prefer coldbrews regardless of weather.
+💿 - I worked in the music industry before I knew what github was.
+📝 - Pursued journalism many eons ago. I still love to write
 
 ## Currently Enjoying:
 
@@ -20,7 +22,7 @@ A software engineer passionate about
 <a href="https://nodejs.org/en/" title="React"> <img alt="" src="assets/icons8-nodejs-48.png" /></a>
 <a href="https://graphql.org/" title="React"> <img alt="" src="assets/icons8-graphql-48.png" /></a>
 
-## Learning and always improving:
+## Learning and always improving :
 
 <a href="https://www.typescriptlang.org/docs/" title="React"> <img alt="" src="assets/icons8-typescript-48.png" /></a>
 <a href="https://vuejs.org/" title="React"> <img alt="" src="assets/icons8-vue-js-48.png" /></a>
@@ -46,6 +48,12 @@ A software engineer passionate about
 <a href="https://sellercentral.amazon.com/" title="React"> <img alt="" src="assets/icons8-amazon-48.png" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" title="React"> <img alt="" src="assets/icons8-microsoft-sql-server-48.png" /></a>
 <a href="https://www.office.com/" title="React"> <img alt="" src="assets/icons8-microsoft-teams-48.png" /></a>
+
+## Github by the numbers
+
+[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=sjtommylee&show_icons=true&hide=contribs,issues,stars)](https://github.com/sjtommylee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&layout=compact)](https://github.com/sjtommylee)
 
 <!--
 **sjtommylee/sjtommylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

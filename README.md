@@ -1,4 +1,4 @@
-## Hi there @sjtommylee but you can call me Tommy. 😄
+## Hi there! I'm @sjtommylee but you can call me Tommy. 😄
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjtommylee//)](https://www.linkedin.com/in/sjtommylee//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjtommylee@gmail.com)](mailto:sjtommylee@gmail.com)

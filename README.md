@@ -9,8 +9,6 @@ Software engineer looking for new opportunities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&layout=compact)](https://github.com/sjtommylee)
 
-[![sjtommylee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjtommylee&layout=compact)](https://github.com/sjtommylee/github-readme-stats)
-
 ##
 
 <!--

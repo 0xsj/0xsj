@@ -11,6 +11,8 @@ Software engineer looking for new opportunities.
 
 ## Currently working with:
 
+<a href="https://reactjs.org/" title="React"> <img alt="" src="assets/icons8-react-native-48.png" /></a>
+
 <!--
 **sjtommylee/sjtommylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

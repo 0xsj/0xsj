@@ -6,10 +6,10 @@
 A software engineer passionate about learning and exploring new things.
 Here are some intersting facts about me!
 
-🇰🇷 - Bilingual.
-☕️ - I prefer coldbrews regardless of weather.
-💿 - I worked in the music industry before I knew what github was.
-📝 - Pursued journalism many eons ago. I still love to write
+- 🇰🇷 - Bilingual.
+- ☕️ - I prefer coldbrews regardless of weather.
+- 💿 - I worked in the music industry before I knew what github was.
+- 📝 - Pursued journalism many eons ago. I still love to write
 
 ## Currently Enjoying:
 

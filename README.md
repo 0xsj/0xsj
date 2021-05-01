@@ -6,6 +6,7 @@ Software engineer looking for new opportunities.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjtommylee@gmail.com)](mailto:sjtommylee@gmail.com)
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=sjtommylee&show_icons=true&hide=contribs,issues)](https://github.com/sjtommylee)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&layout=compact)](https://github.com/sjtommylee)
 
 ##

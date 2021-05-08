@@ -24,7 +24,6 @@ Here are some intersting facts about me!
 ## Learning and always improving :
 
 <a href="https://www.typescriptlang.org/docs/" title="React"> <img alt="" src="assets/icons8-typescript-48.png" /></a>
-<a href="https://vuejs.org/" title="React"> <img alt="" src="assets/icons8-vue-js-48.png" /></a>
 <a href="https://firebase.google.com/" title="React"> <img alt="" src="assets/icons8-firebase-48.png" /></a>
 
 ## Goals for the future:
@@ -32,6 +31,7 @@ Here are some intersting facts about me!
 <a href="https://www.tensorflow.org/js" title="React"> <img alt="" src="assets/icons8-tensorflow-48.png" /></a>
 <a href="https://docs.python.org/3/" title="React"> <img alt="" src="assets/icons8-python-48.png" /></a>
 <a href="https://www.figma.com/" title="React"> <img alt="" src="assets/icons8-figma-48.png" /></a>
+<a href="https://vuejs.org/" title="React"> <img alt="" src="assets/icons8-vue-js-48.png" /></a>
 
 ## Previously worked with:
 

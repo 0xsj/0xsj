@@ -1,4 +1,4 @@
-## Hi there! I'm @sjtommylee but you can call me Tommy. 😄
+## Hi there! I'm sj. 😄
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjtommylee//)](https://www.linkedin.com/in/sjtommylee//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjtommylee@gmail.com)](mailto:sjtommylee@gmail.com)
@@ -18,19 +18,9 @@ Here are some intersting facts about me!
 <a href="https://www.typescriptlang.org/docs/" title="React"> <img alt="" src="assets/icons8-typescript-48.png" /></a>
 <a href="https://graphql.org/" title="React"> <img alt="" src="assets/icons8-graphql-48.png" /></a>
 <a href="" title="React"> <img alt="" src="assets/icons8-ethereum-48.png" /></a>
-<a href="https://www.figma.com/" title="React"> <img alt="" src="assets/icons8-figma-48.png" /></a>
-
-## Tinkering with:
-
-<a href="https://docs.python.org/3/" title="React"> <img alt="" src="assets/icons8-python-48.png" /></a>
-
-## Goals for the near future:
-
-<a href="" title="React"> <img alt="" src="assets/icons8-golang-48.png" /></a>
 
 ## Previously worked with:
 
-<a href="https://git-scm.com/" title="React"> <img alt="" src="assets/icons8-git-48.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="React"> <img alt="" src="assets/icons8-html-5-48.png" /></a>
 <a href="https://www.w3schools.com/css/" title="React"> <img alt="" src="assets/icons8-css3-48.png" /></a>
 <a href="https://sass-lang.com/" title="React"> <img alt="" src="assets/icons8-sass-avatar-48.png" /></a>
@@ -40,7 +30,7 @@ Here are some intersting facts about me!
 <a href="https://www.shopify.com/" title="React"> <img alt="" src="assets/icons8-shopify-48.png" /></a>
 <a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/icons8-postgresql-48.png" /></a>
 
-## Github by the numbers
+## GH
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=sjtommylee&show_icons=true&hide=contribs,issues,stars)](https://github.com/sjtommylee)
 

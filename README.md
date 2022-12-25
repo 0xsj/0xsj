@@ -9,8 +9,7 @@ Here are some intersting facts about me!
 
 - 🇰🇷 - Bilingual.
 - ☕️ - I prefer coldbrews regardless of weather.
-- 💿 - I worked in the music industry before I knew what github was.
-- 📝 - Pursued journalism many eons ago. I still love to write
+- 💿 - I worked in the music industry before tech.
 
 ## Currently working with:
 
@@ -28,7 +27,9 @@ Here are some intersting facts about me!
 <a href="https://www.javascript.com/" title="React"> <img alt="" src="assets/icons8-javascript-48.png" /></a>
 <a href="https://wordpress.com/" title="React"> <img alt="" src="assets/icons8-wordpress-48.png" /></a>
 <a href="https://www.shopify.com/" title="React"> <img alt="" src="assets/icons8-shopify-48.png" /></a>
-<a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/icons8-postgresql-48.png" /></a>
+<a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/
+icons8-postgresql-48.png" /></a>
+<a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/icons8-python-48.png" /></a>
 
 ## GH
 

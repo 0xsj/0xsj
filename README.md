@@ -31,12 +31,6 @@ Here are some intersting facts about me!
 icons8-postgresql-48.png" /></a>
 <a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/icons8-python-48.png" /></a> -->
 
-## GH
-
-[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=sjtommylee&show_icons=true&hide=contribs,issues,stars)](https://github.com/sjtommylee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&layout=compact)](https://github.com/sjtommylee)
-
 <!--
 **appreciate-tommy/appreciate-tommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -18,6 +18,8 @@ Here are some intersting facts about me!
 <a href="https://go.dev/doc/" title="Go"> <img alt="" src="assets/icons8-golang-48.png" /></a>
 <a href="/" title="AWS"> <img alt="" src="assets/amazon-48.png" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee)](https://github.com/sjtommylee/github-readme-stats)
+
 <!-- ## Previously worked with:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="React"> <img alt="" src="assets/icons8-html-5-48.png" /></a>

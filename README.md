@@ -19,6 +19,7 @@ Here are some intersting facts about me!
 <a href="/" title="AWS"> <img alt="" src="assets/amazon-48.png" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&hide=lua,javascript,ruby&layout=compact)](https://github.com/sjtommylee/github-readme-stats)
+[![sjtommylee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjtommylee)](https://github.com/sjtommylee/github-readme-stats)
 
 <!-- ## Previously worked with:
 

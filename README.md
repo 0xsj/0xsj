@@ -21,6 +21,11 @@ Here are some intersting facts about me!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&hide=lua,javascript,ruby&layout=compact)](https://github.com/sjtommylee/github-readme-stats)
 [![sjtommylee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjtommylee)](https://github.com/sjtommylee/github-readme-stats)
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjtommylee" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+
 <!-- ## Previously worked with:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="React"> <img alt="" src="assets/icons8-html-5-48.png" /></a>

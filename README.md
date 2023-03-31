@@ -17,10 +17,11 @@ Here are some intersting facts about me!
 <a href="https://www.typescriptlang.org/docs/" title="React"> <img alt="" src="assets/icons8-typescript-48.png" /></a>
 <a href="https://go.dev/doc/" title="Go"> <img alt="" src="assets/icons8-golang-48.png" /></a>
 <a href="https://aws.amazon.com/" title="AWS"> <img alt="" src="assets/icons8-amazon-48.png" /></a>
+<a href="https://graphql.org/" title="GraphQL"> <img alt="" src="assets/icons8-graphql-48.png" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&hide=lua,javascript,ruby&layout=compact)](https://github.com/sjtommylee/github-readme-stats)
 
-## Previously worked with:
+## Also worked with:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="React"> <img alt="" src="assets/icons8-html-5-48.png" /></a>
 <a href="https://www.w3schools.com/css/" title="React"> <img alt="" src="assets/icons8-css3-48.png" /></a>
@@ -31,7 +32,7 @@ Here are some intersting facts about me!
 <a href="https://www.shopify.com/" title="React"> <img alt="" src="assets/icons8-shopify-48.png" /></a>
 <a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/
 icons8-postgresql-48.png" /></a>
-<a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/icons8-python-48.png" /></a> -->
+<a href="https://www.postgresql.org/docs/" title="React"> <img alt="" src="assets/icons8-python-48.png" /></a>
 
 <!--
 **appreciate-tommy/appreciate-tommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

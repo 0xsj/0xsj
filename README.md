@@ -19,7 +19,7 @@ Here are some intersting facts about me!
 <a href="https://aws.amazon.com/" title="AWS"> <img alt="" src="assets/icons8-amazon-48.png" /></a>
 <a href="https://graphql.org/" title="GraphQL"> <img alt="" src="assets/icons8-graphql-48.png" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&hide=lua,javascript,ruby&layout=compact)](https://github.com/sjtommylee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtommylee&hide=javascript,ruby&layout=compact)](https://github.com/sjtommylee/github-readme-stats)
 
 ## Also worked with:
 

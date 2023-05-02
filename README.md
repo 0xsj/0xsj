@@ -3,14 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjtommylee//)](https://www.linkedin.com/in/sjtommylee//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjtommylee@gmail.com)](mailto:sjtommylee@gmail.com)
 
-A software engineer passionate about learning and exploring new things.
-Animal lover, Blockchain enthusiast, always pondering about connections between technology and the entertainment industry.
-Here are some intersting facts about me!
-
-- 🇰🇷 - Bilingual.
-- ☕️ - I prefer coldbrews regardless of weather.
-- 💿 - I worked in the music industry before tech.
-
 ## Current Tech Stack:
 
 <a href="https://reactjs.org/" title="React"> <img alt="" src="assets/icons8-react-native-48.png" /></a>

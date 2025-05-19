@@ -31,7 +31,7 @@ pursuing_certifications:
     "Google Cloud Associate Cloud Engineer",
     "Certified Kubernetes Administrator (CKA)"
   ]
-currently_learning: ["Scala, Rust, and Kubernetes"]
+currently_exploring: ["Scala, Rust, and Kubernetes"]
 
 2025 Goals: ["Learn 🇹🇷 as a third language"]
 hobbies: ["Music", "Cinema", "Reading"]

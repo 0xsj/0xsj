@@ -18,6 +18,7 @@ technical_background:
   [
     "Software Engineer",
     "Freelance Technical Consultant",
+    "Engineering Manager",
     "Individual Contributor",
     "Fullstack Software Engineer",
   ]

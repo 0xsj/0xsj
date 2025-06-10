@@ -30,7 +30,9 @@ certifications:
 pursuing_certifications:
   [
     "Google Cloud Associate Cloud Engineer",
-    "Certified Kubernetes Administrator (CKA)"
+    "Certified Kubernetes Administrator (CKA)",
+    "AWS Certified Developer Associate (DVA-C02),
+    "CompTIA Security+ (SY0-701),
   ]
 currently_exploring: ["Scala, Rust, and Kubernetes"]
 

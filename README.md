@@ -13,6 +13,7 @@ company: Gasda Software
 fields_of_interests:
   [
     "Software Architecture and Design",
+    "Functional Programming"
   ]
 technical_background:
   [

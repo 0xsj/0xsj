@@ -6,7 +6,7 @@ located_in: California, USA
 current_job: Software Engineer
 education:
   [
-    "Bachelor's in Software Engineering",
+    "B.S. Software Engineering",
   ]
 company: Gasda Software
 

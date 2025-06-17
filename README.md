@@ -36,7 +36,7 @@ pursuing_certifications:
     "AWS Certified Developer Associate (DVA-C02),
     "CompTIA Security+ (SY0-701),
   ]
-currently_exploring: ["Scala, Rust, and Kubernetes"]
+currently_exploring: ["Scala, Rust, Docker, and Kubernetes"]
 
 2025 Goals: ["Learn 🇹🇷 as a third language"]
 hobbies: ["Music", "Cinema", "Reading"]

@@ -2,7 +2,7 @@
 ## About Me:
 ```yaml
 name: SJ Lee
-located_in: California, USA
+located_in: Istanbul
 current_job: Software Engineer
 education:
   [
